@@ -22,3 +22,6 @@ O objetivo é somar 21 pontos, que representam o "Blackjack". Caso o jogador ati
 
 - **JavaScript**: Toda a lógica do jogo foi feita com JavaScript, utilizando operações e estruturas básicas.
 
+## Curso
+
+Este projeto foi desenvolvido como parte de um curso básico de JavaScript na plataforma **Scrimba**.
